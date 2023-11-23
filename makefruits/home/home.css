@@ -61,14 +61,14 @@ body {
   .teamname {
     transform: translateX(-50%);
     position: absolute;
-    top: 300px;
+    top: 500px;
     left: 50%;
     color: white;
 }
 .teamname1 {
     transform: translateX(-50%);
     position: absolute;
-    top: 400px;
+    top: 600px;
     left: 50%;
     color: white;
 }
