@@ -64,7 +64,7 @@ body {
   width: 100px;
   height: 300px;
   position: absolute;
-  top: 2000px;
+  top: 2500px;
   left: 50%;  
   }
 
@@ -72,7 +72,7 @@ body {
   transform: translateX(-50%);
   background-color:#000000;
   position: absolute;
-  top: 2000px;
+  top: 2500px;
   left: 50%;  
 }
 
